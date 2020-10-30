@@ -1,11 +1,6 @@
 ## **MÉTODO DE BURBUJA**
 
 
-------------
-
-
-------------
-
 ***Programa de consola utilizando el Método de Ordenamiento de Burbuja.***
 
 ------------
